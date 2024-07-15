@@ -1,0 +1,1 @@
+For designing the Fornt-End of the website we used HTML,CSS,JavaScript,Bootstrap.To evaluate the score of the person we used the php as Back-End Framework. 
